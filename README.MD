@@ -12,9 +12,8 @@
 
 <div align="center">
     <audio src="https://github.com/Paru369/prompts-for-podcast-generate-by-ia-testes-de-performance/output/preview.MP3" controls title="Podcast editado"></audio>
-    [LINK PARA OUVIR O PODCAST COMPLETO](https://github.com/Paru369/prompts-for-podcast-generate-by-ia-testes-de-performance/output/podcast_editado.MP3)
 </div>
-
+[LINK PARA OUVIR O PODCAST COMPLETO](https://github.com/Paru369/prompts-for-podcast-generate-by-ia-testes-de-performance/output/podcast_editado.MP3)
 # Projeto Podcast Gerado por I.A.s
 
 
