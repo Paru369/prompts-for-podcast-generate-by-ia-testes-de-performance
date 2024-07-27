@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="assets/cover.png"
     width="300"
 />
 </p>
@@ -11,9 +11,11 @@
 </p>
 
 <div align="center">
-    <audio src="https://github.com/Paru369/prompts-for-podcast-generate-by-ia-testes-de-performance/output/preview.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/preview.MP3" controls title="Podcast editado"></audio>
 </div>
-[LINK PARA OUVIR O PODCAST COMPLETO](https://github.com/Paru369/prompts-for-podcast-generate-by-ia-testes-de-performance/output/podcast_editado.MP3)
+
+- [LINK PARA OUVIR O PODCAST COMPLETO](https://github.com/Paru369/prompts-for-podcast-generate-by-ia-testes-de-performance/output/podcast_editado.MP3)
+
 # Projeto Podcast Gerado por I.A.s
 
 
