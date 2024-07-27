@@ -11,7 +11,8 @@
 </p>
 
 <div align="center">
-    <audio src="output/podcast_editado.MP3" controls title="Podcast editado"></audio>
+    <audio src="output/preview.MP3" controls title="Podcast editado"></audio>
+    [LINK PARA OUVIR O PODCAST COMPLETO] (Paru369/prompts-for-podcast-generate-by-ia-testes-de-performance/output/podcast_editado.MP3)
 </div>
 
 # Projeto Podcast Gerado por I.A.s
